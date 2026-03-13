@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PENSAMIENTO\\Funciones actividad 17\\ejercicio 13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CAF6D7-1FAF-4BB6-A8F9-9A12EF035C35}|ejercicio 13\\ejercicio 13.csproj|c:\\users\\usuario\\desktop\\pensamiento\\funciones actividad 17\\ejercicio 13\\ejercicio 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CAF6D7-1FAF-4BB6-A8F9-9A12EF035C35}|ejercicio 13\\ejercicio 13.csproj|solutionrelative:ejercicio 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PENSAMIENTO\\Funciones actividad 17\\ejercicio 13\\ejercicio 13\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio 13\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PENSAMIENTO\\Funciones actividad 17\\ejercicio 13\\ejercicio 13\\Program.cs",
+              "RelativeToolTip": "ejercicio 13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:55:23.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
