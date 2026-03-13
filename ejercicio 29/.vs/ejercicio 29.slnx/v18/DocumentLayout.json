@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PENSAMIENTO\\Funciones actividad 17\\ejercicio 29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9368C8F-FFE2-4804-B1BB-3ECAAE6ED59B}|ejercicio 29\\ejercicio 29.csproj|c:\\users\\usuario\\desktop\\pensamiento\\funciones actividad 17\\ejercicio 29\\ejercicio 29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9368C8F-FFE2-4804-B1BB-3ECAAE6ED59B}|ejercicio 29\\ejercicio 29.csproj|solutionrelative:ejercicio 29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PENSAMIENTO\\Funciones actividad 17\\ejercicio 29\\ejercicio 29\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio 29\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PENSAMIENTO\\Funciones actividad 17\\ejercicio 29\\ejercicio 29\\Program.cs",
+              "RelativeToolTip": "ejercicio 29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:11:30.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
